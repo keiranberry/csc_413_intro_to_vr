@@ -1,0 +1,3 @@
+stylized grass: https://openclipart.org/detail/315222/grass-sprite
+dirt: https://3dtextures.me/2022/02/07/ground-dirt-009/
+grass_001: https://3dtextures.me/2018/12/17/ground-grass-001/
